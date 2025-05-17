@@ -45,6 +45,6 @@ Este projeto é um validador de bandeiras de cartões de crédito, desenvolvido 
 
   Salve o arquivo e execute novamente o comando node src/index.js.
 
-🛠 Tecnologias utilizadas
-    JavaScript: Linguagem principal do projeto.
-    Node.js: Ambiente de execução para rodar o código.
+🛠 Tecnologias utilizadas:
+  - JavaScript: Linguagem principal do projeto.
+  - Node.js: Ambiente de execução para rodar o código.
